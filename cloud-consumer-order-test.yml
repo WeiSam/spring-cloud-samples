@@ -5,7 +5,7 @@ server:
   port: 8022
 
 data:
-  evn: test
+  env: test
 
 eureka:
   client:
